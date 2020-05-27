@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Riddle</string>
+    <string name="question2_nhow_do_you_make_1_disappear">Question2\nHow do you make 1 disappear?</string>
+    <string name="reveal">Reveal</string>
+    <string name="question1_nthis_word_has_the_same_pronunciation_even_after_removing_4_letters_from_it">Question1\nThis word has the same pronunciation even after removing 4 letters from it.</string>
+</resources>
